@@ -39,7 +39,7 @@ const Index = () => {
       <Box bg="gray.900" color="white" minHeight="100vh" width="full">
         <Flex direction="column" align="center" justify="center" height="full">
           <VStack spacing={8} py={10}>
-            <Image src="https://images.unsplash.com/photo-1587293852726-70cdb56c2863?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" boxSize="150px" alt="OrthoStream Logo" />
+            <Image src="https://yourdomain.com/path/to/your/logo.png" boxSize="150px" alt="OrthoStream Logo" />
             <Heading as="h1" size="xl" fontWeight="bold">
               Welcome to the future of orthopaedic scheduling!
             </Heading>
